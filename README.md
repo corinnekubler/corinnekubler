@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am working for Capital Markets as a lead developer in Sophia Antipolis
 
 <!--
 **corinnekubler/corinnekubler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
